@@ -1,0 +1,28 @@
+#content{
+  background:none;
+  background-image:none;  
+}
+
+#navcontainer #searchInNav label{
+  font-size:10px;
+}
+
+#navcontainer #searchInNav input[type="text"], #navcontainer #searchInNav #edit-search-theme-form-1, #header text. #header .form-text {
+ width:80px; 
+ padding:0px;
+ margin-top:10px;
+}
+
+#edit-search-theme-form-1-wrapper input{
+  width:80px;
+  padding:0px;
+  margin-top:10px;   
+}
+
+#overlay{
+  background:none;
+  background-color: #13406F; 
+}
+ 
+#BAF {font-size: 12px;}     
+.footerLinkGroup {width: 125px;}

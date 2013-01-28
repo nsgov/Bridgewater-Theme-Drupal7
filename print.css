@@ -1,0 +1,23 @@
+body {background: #fff; color: #000 !important;}
+a {color: #000 !important;}
+
+h1, h2, h3, h4, h5, h6, p {color: #000;}
+
+#header #mainBanner {background-image: none;}
+
+#container {margin: 20px;}
+#mainBanner {}
+#admin-menu,
+#topNavBar,  
+#container #columnContainer #sideNav, 
+#container #columnContainer #rightcol, 
+#BAF {display: none;}
+
+
+#container #columnContainer #lowerBanner {background-image: none;}
+#container #columnContainer #lowerBanner #breadcrumbs {display: none;}
+#container #columnContainer #lowerBanner #deptId {background: none;}
+
+#container #columnContainer #main {width: 90%;}
+
+div.links, #comments div.comment {background: #fff; border-width: 1px 0px 0px 0px; border-color: #000;}

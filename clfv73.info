@@ -1,0 +1,24 @@
+name = Common Look and Feel
+description = The Common Look and Feel for all Nova Scotia Government Websites. Tableless, multi-column, fixed width.  Including WAI-Aria Roles.
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = boilerplate.css
+stylesheets[all][] = style.css
+stylesheets[all][] = style-ie6.css
+stylesheets[print][] = print.css
+
+regions[left]       	= Left Column
+regions[right]			= Right Column
+regions[contenttop]    	= Content Top
+regions[content]        = Content
+regions[header]        	= Header
+regions[footer]         = Footer
+regions[footermenus]  	= Footer Menus
+
+
+; Information added by drupal.org packaging script on 2012-03-08
+version = "7.x-1.3"
+core = "7.x"
+project = "clfv73"
+datestamp = "1320214533"
+

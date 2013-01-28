@@ -44,6 +44,9 @@ perfectly up to date with the latest development of some cutting-edge
 technologies"), which isn't up to date enough to validate all the extra
 markup.
 
+The logo image that appears on this theme is the property of the 
+Province of Nova Scotia and intended for official use only.
+
 If you have any questions or problems with this theme please email me 
 and I'll get you sorted out.
 
